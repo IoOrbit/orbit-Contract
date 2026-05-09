@@ -1,0 +1,7 @@
+# Tell GitHub how to handle files
+*.rs linguist-language=Rust
+*.toml linguist-language=TOML
+*.md linguist-language=Markdown
+Makefile linguist-language=Makefile
+*.yml linguist-language=YAML
+*.json linguist-language=JSON
